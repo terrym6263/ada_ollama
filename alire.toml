@@ -1,0 +1,11 @@
+name = "ollama_ada_client"
+description = "Ada Ollama integration"
+version = "0.1.0-dev"
+
+authors = ["Terry"]
+maintainers = ["Terry <terrymatsufuji@proton.me>"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["ollama_ada_client"]
